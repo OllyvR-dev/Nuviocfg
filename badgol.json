@@ -84,7 +84,7 @@
       "borderColor": "#FFFFFF"
     },
     {
-      "borderColor": "#FF3645",
+      "borderColor": "#FF5F5F",
       "groupId": "gq",
       "id": "q-r",
       "imageURL": "https://raw.githubusercontent.com/OllyvR-dev/Nuviocfg/main/quality_black-remux2.png",
@@ -97,7 +97,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FF3645",
+      "borderColor": "#FF5F5F",
       "groupId": "gq",
       "id": "q-b",
       "imageURL": "https://raw.githubusercontent.com/OllyvR-dev/Nuviocfg/main/quality_black-bluray2.png",
@@ -110,7 +110,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FF3645",
+      "borderColor": "#FF5F5F",
       "groupId": "gq",
       "id": "q-w",
       "imageURL": "https://raw.githubusercontent.com/OllyvR-dev/Nuviocfg/main/quality_black-webdl2.png",
@@ -123,7 +123,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FF3645",
+      "borderColor": "#FF5F5F",
       "groupId": "gq",
       "id": "gq-webrip",
       "imageURL": "https://raw.githubusercontent.com/OllyvR-dev/Nuviocfg/main/quality_black-webrip2.png",
