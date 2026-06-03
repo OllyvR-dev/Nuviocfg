@@ -47,14 +47,14 @@
     {
       "groupId": "gr",
       "id": "r-4k",
-      "imageURL": "https://raw.githubusercontent.com/nobnobz/Omni-Template-Bot-Bid-Raiser/main/Other/regex%20tags/4k.png",
+      "imageURL": "https://raw.githubusercontent.com/starkles/Nuvio-sven-badges/main/white-4k.png",
       "isEnabled": true,
       "name": "4K",
       "pattern": "(?i)^(?=.*(?:2160[pi]?|4k|uhd))(?!.*(?:1080[pi]?|720[pi]?))",
       "tagColor": "#FFBE01",
       "tagStyle": "filled",
       "textColor": "#FFBE01",
-      "type": "filter"
+      "type": "filter",
       "borderColor": "#FFBE01"
     },
     {
@@ -64,11 +64,11 @@
       "isEnabled": true,
       "name": "1080p",
       "pattern": "(?i)\\b1080[pi]?\\b",
-      "tagColor": "#00000000",
-      "tagStyle": "bordered",
+      "tagColor": "#FF6904",
+      "tagStyle": "filled",
       "textColor": "#FF9A3D",
       "type": "filter",
-      "borderColor": "#FFFFFF"
+      "borderColor": "#FF6904"
     },
     {
       "groupId": "gr",
@@ -77,11 +77,11 @@
       "isEnabled": true,
       "name": "720p",
       "pattern": "(?i)\\b720[pi]?\\b",
-      "tagColor": "#00000000",
-      "tagStyle": "bordered",
+      "tagColor": "#FB411C",
+      "tagStyle": "filled",
       "textColor": "#FF9A3D",
       "type": "filter",
-      "borderColor": "#888d93"
+      "borderColor": "#FB411C"
     },
     {
       "groupId": "gr",
@@ -90,8 +90,8 @@
       "isEnabled": true,
       "name": "576p",
       "pattern": "(?i)\\b576[pi]?\\b",
-      "tagColor": "#00000000",
-      "tagStyle": "bordered",
+      "tagColor": "#888d93",
+      "tagStyle": "filled",
       "textColor": "#888d93",
       "type": "filter",
       "borderColor": "#888d93"
@@ -103,8 +103,8 @@
       "isEnabled": true,
       "name": "480p",
       "pattern": "(?i)\\b480[pi]?\\b",
-      "tagColor": "#00000000",
-      "tagStyle": "bordered",
+      "tagColor": "#888d93",
+      "tagStyle": "filled",
       "textColor": "#888d93",
       "type": "filter",
       "borderColor": "#888d93"
@@ -116,8 +116,8 @@
       "isEnabled": true,
       "name": "360p",
       "pattern": "(?i)\\b360[pi]?\\b",
-      "tagColor": "#00000000",
-      "tagStyle": "bordered",
+      "tagColor": "#888d93",
+      "tagStyle": "filled",
       "textColor": "#888d93",
       "type": "filter",
       "borderColor": "#888d93"
@@ -129,8 +129,8 @@
       "isEnabled": true,
       "name": "240p",
       "pattern": "(?i)\\b240[pi]?\\b",
-      "tagColor": "#00000000",
-      "tagStyle": "bordered",
+      "tagColor": "#888d93",
+      "tagStyle": "filled",
       "textColor": "#888d93",
       "type": "filter",
       "borderColor": "#888d93"
@@ -142,11 +142,11 @@
       "isEnabled": true,
       "name": "Remux",
       "pattern": "(?i)\\b(?:bd|uhd)?remux\\b",
-      "tagColor": "#7C5CFF",
-      "tagStyle": "bordered",
+      "tagColor": "#E600E932",
+      "tagStyle": "filled",
       "textColor": "#84BD00",
       "type": "filter",
-      "borderColor": "#7C5CFF"
+      "borderColor": "#FF00FF37"
     },
     {
       "groupId": "gq",
@@ -155,11 +155,11 @@
       "isEnabled": true,
       "name": "BluRay",
       "pattern": "(?i)^(?=.*(?:bluray|blu-ray|\\bb[dr][-_. ]?rip\\b|\\bbd(?:25|50|r|mv)?\\b))(?!.*\\b(?:bd|uhd)?remux\\b)",
-      "tagColor": "#00A8E1",
-      "tagStyle": "bordered",
-      "textColor": "#FFBE01",
+      "tagColor": "#E600E932",
+      "tagStyle": "filled",
+      "textColor": "#27C04F",
       "type": "filter",
-      "borderColor": "#00A8E1"
+      "borderColor": "#FF00FF37"
     },
     {
       "groupId": "gq",
@@ -168,11 +168,11 @@
       "isEnabled": true,
       "name": "WEB-DL",
       "pattern": "(?i)\\bweb[-_. ]?dl\\b",
-      "tagColor": "#84BD00",
-      "tagStyle": "bordered",
-      "textColor": "#FFFFFF",
+      "tagColor": "#E600E932",
+      "tagStyle": "filled",
+      "textColor": "#27C04F",
       "type": "filter",
-      "borderColor": "#84BD00"
+      "borderColor": "#FF00FF37"
     },
     {
       "groupId": "gq",
@@ -181,8 +181,8 @@
       "isEnabled": true,
       "name": "WEBRip",
       "pattern": "(?i)\\bweb[-_. ]?rip\\b",
-      "tagColor": "#00000000",
-      "tagStyle": "bordered",
+      "tagColor": "#888d93",
+      "tagStyle": "filled",
       "textColor": "#FFBE01",
       "type": "filter",
       "borderColor": "#888d93"
@@ -194,8 +194,8 @@
       "isEnabled": true,
       "name": "HDTV",
       "pattern": "(?i)\\bhdtv\\b",
-      "tagColor": "#00000000",
-      "tagStyle": "bordered",
+      "tagColor": "#888d93",
+      "tagStyle": "filled",
       "textColor": "#888d93",
       "type": "filter",
       "borderColor": "#888d93"
@@ -207,8 +207,8 @@
       "isEnabled": true,
       "name": "DVDScr",
       "pattern": "(?i)\\bdvd[\\s._-]?scr(?:eener)?\\b",
-      "tagColor": "#00000000",
-      "tagStyle": "bordered",
+      "tagColor": "#888d93",
+      "tagStyle": "filled",
       "textColor": "#888d93",
       "type": "filter",
       "borderColor": "#888d93"
@@ -220,8 +220,8 @@
       "isEnabled": true,
       "name": "DVDRip",
       "pattern": "(?i)\\bdvd[-_. ]?rip\\b",
-      "tagColor": "#00000000",
-      "tagStyle": "bordered",
+      "tagColor": "#888d93",
+      "tagStyle": "filled",
       "textColor": "#888d93",
       "type": "filter",
       "borderColor": "#888d93"
@@ -233,8 +233,8 @@
       "isEnabled": true,
       "name": "CAM",
       "pattern": "(?i)^(?=.*(?:\\bcam(?:rip)?\\b|\\bhdcam\\b|\\bts\\b|\\btelesync\\b|\\bhdts\\b|\\btc\\b|\\btelecine\\b|(?<!dvd)(?<!dvd[._-])\\bscr(?:eener)?\\b))(?!.*\\bdvd[\\s._-]?scr)",
-      "tagColor": "#00000000",
-      "tagStyle": "bordered",
+      "tagColor": "#888d93",
+      "tagStyle": "filled",
       "textColor": "#888d93",
       "type": "filter",
       "borderColor": "#888d93"
@@ -246,8 +246,8 @@
       "isEnabled": true,
       "name": "R5",
       "pattern": "(?i)\\br5\\b",
-      "tagColor": "#00000000",
-      "tagStyle": "bordered",
+      "tagColor": "#888d93",
+      "tagStyle": "filled",
       "textColor": "#888d93",
       "type": "filter",
       "borderColor": "#888d93"
