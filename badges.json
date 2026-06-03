@@ -34,13 +34,6 @@
       "id": "gc",
       "isExpanded": true,
       "name": "Channels"
-    },
-    {
-      "borderColor": "#00000000",
-      "color": "#9B59B6",
-      "id": "gco",
-      "isExpanded": true,
-      "name": "Codecs"
     }
   ],
   "filters": [
