@@ -51,9 +51,9 @@
       "isEnabled": true,
       "name": "4K",
       "pattern": "(?i)^(?=.*(?:2160[pi]?|4k|uhd))(?!.*(?:1080[pi]?|720[pi]?))",
-      "tagColor": "#00A8E1",
+      "tagColor": "#FF00A8E1",
       "tagStyle": "filled and bordered",
-      "textColor": "#FFBE01",
+      "borderColor": "#FF00A8E1",
       "type": "filter",
       "borderColor": "#00A8E1"
     },
