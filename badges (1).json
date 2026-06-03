@@ -51,11 +51,11 @@
       "isEnabled": true,
       "name": "4K",
       "pattern": "(?i)^(?=.*(?:2160[pi]?|4k|uhd))(?!.*(?:1080[pi]?|720[pi]?))",
-      "tagColor": "#FFBE01",
+      "tagColor": "#00A8E1",
       "tagStyle": "filled",
-      "textColor": "#FFBE01",
-      "type": "filter"
-      "borderColor": "#FFBE01"
+      "textColor": "#00A8E1",
+      "type": "filter",
+      "borderColor": "#00A8E1"
     },
     {
       "groupId": "gr",
@@ -64,11 +64,11 @@
       "isEnabled": true,
       "name": "1080p",
       "pattern": "(?i)\\b1080[pi]?\\b",
-      "tagColor": "#FF6904",
+      "tagColor": "#00A8E1",
       "tagStyle": "filled",
       "textColor": "#FF9A3D",
-      "type": "filter"
-      "borderColor": "#FF6904"
+      "type": "filter",
+      "borderColor": "#00A8E1"
     },
     {
       "groupId": "gr",
@@ -77,11 +77,11 @@
       "isEnabled": true,
       "name": "720p",
       "pattern": "(?i)\\b720[pi]?\\b",
-      "tagColor": "#FB411C",
+      "tagColor": "#00A8E1",
       "tagStyle": "filled",
       "textColor": "#FF9A3D",
-      "type": "filter"
-      "borderColor": "#FB411C"
+      "type": "filter",
+      "borderColor": "#00A8E1"
     },
     {
       "borderColor": "#FF00FF37",
@@ -115,8 +115,8 @@
       "id": "q-w",
       "imageURL": "https://raw.githubusercontent.com/9mousaa/BetterFormatter/main/images/colored-webdl.png",
       "isEnabled": true,
-      "name": "WebDL",
-      "pattern": "(?i)\\b(?:web[-_. ]?dl|webdl|webrip|web-rip)\\b",
+      "name": "WEB-DL",
+      "pattern": "(?i)\\bweb[-_. ]?dl\\b",
       "tagColor": "#E600E932",
       "tagStyle": "filled",
       "textColor": "#27C04F",
@@ -125,10 +125,10 @@
     {
       "borderColor": "#FF00FF37",
       "groupId": "gq",
-      "id": "q-w",
+      "id": "gq-webrip",
       "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images/---webrip.png",
       "isEnabled": true,
-      "name": "WebRip",
+      "name": "WEBRip",
       "pattern": "(?i)\\bweb[-_. ]?rip\\b",
       "tagColor": "#E600E932",
       "tagStyle": "filled",
