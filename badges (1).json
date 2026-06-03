@@ -100,7 +100,7 @@
       "borderColor": "#00A8E1",
       "groupId": "gq",
       "id": "q-b",
-      "imageURL": "https://raw.githubusercontent.com/OllyvR-dev/Nuviocfg/main/black-bluray.png",
+      "imageURL": "https://raw.githubusercontent.com/OllyvR-dev/Nuviocfg/c8022a4ed6511ddea6c3d05fe82859a533fd6e21/black-bluray.png",
       "isEnabled": true,
       "name": "BluRay",
       "pattern": "(?i)^(?=.*(?:bluray|blu-ray))(?!.*remux)",
