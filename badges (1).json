@@ -47,15 +47,15 @@
     {
       "groupId": "gr",
       "id": "r-4k",
-      "imageURL": "https://raw.githubusercontent.com/starkles/Nuvio-sven-badges/main/white-4k.png",
+      "imageURL": "https://raw.githubusercontent.com/nobnobz/Omni-Template-Bot-Bid-Raiser/main/Other/regex%20tags/4k.png",
       "isEnabled": true,
       "name": "4K",
       "pattern": "(?i)^(?=.*(?:2160[pi]?|4k|uhd))(?!.*(?:1080[pi]?|720[pi]?))",
-      "tagColor": "#FF00A8E1",
-      "tagStyle": "filled and bordered",
-      "borderColor": "#FF00A8E1",
-      "type": "filter",
-      "borderColor": "#00A8E1"
+      "tagColor": "#FFBE01",
+      "tagStyle": "filled",
+      "textColor": "#FFBE01",
+      "type": "filter"
+      "borderColor": "#FFBE01"
     },
     {
       "groupId": "gr",
