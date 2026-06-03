@@ -84,14 +84,14 @@
       "borderColor": "#FFFFFF"
     },
     {
-      "borderColor": "#00A8E1",
+      "borderColor": "#FF0436",
       "groupId": "gq",
       "id": "q-r",
       "imageURL": "https://raw.githubusercontent.com/OllyvR-dev/Nuviocfg/main/quality_black-remux.png",
       "isEnabled": true,
       "name": "Remux",
       "pattern": "(?i)\\bremux\\b",
-      "tagColor": "#00A8E8",
+      "tagColor": "#FF0436",
       "tagStyle": "filled",
       "textColor": "#E50914",
       "type": "filter"
