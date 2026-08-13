@@ -10,16 +10,16 @@
     {
       "borderColor": "#FFFFFF",
       "color": "#FFFFFF",
-      "id": "gms",
+      "id": "gq",
       "isExpanded": true,
-      "name": "Media Source"
+      "name": "Quality"
     },
     {
       "borderColor": "#FFFFFF",
       "color": "#FFFFFF",
-      "id": "gq",
+      "id": "gms",
       "isExpanded": true,
-      "name": "Quality"
+      "name": "Media Source"
     },
     {
       "borderColor": "#FFFFFF",
